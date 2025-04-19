@@ -62,6 +62,11 @@ Reinforced core concepts of data cleaning , feature engineering , and regression
 
 Provided hands on experience in using structured data for solving real world business problems.
 
+## Outputs
+
+![Image](https://github.com/user-attachments/assets/87fcca86-9778-4b1c-bce4-5fc2d09b4c76)
+
+![Image](https://github.com/user-attachments/assets/3adfc9c2-de61-455a-8bb2-50cb73f1e0d6)
 
 
 
