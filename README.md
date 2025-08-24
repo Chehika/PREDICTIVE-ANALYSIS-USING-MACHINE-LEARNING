@@ -1,18 +1,6 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
 
-COMPANY- CODTECH IT SOLUTION
-
-NAME- Chehika Chhipa
-
-INTERN ID- CT04DA653
-
-DOMAIN- DATA ANALYTICS
-
-DURATION- 4 WEEKS
-
-MENTOR- NEELA SANTOSH
-
-# Laptop Price Pridiction Using Machine Learning
+## Laptop Price Pridiction Using Machine Learning
 
 ## Overview
 
