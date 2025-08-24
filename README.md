@@ -4,8 +4,7 @@
 
 ## Overview
 
-As part of a data-driven project during my internship at CodeTech, i conducted a predictive analysis using a machine learning model to estimate laptop prices based on thier specifications. The main objective was to understand how various features such as display size ,processor, RAM , storage type, and GPU contribute to the final price of a laptop . By applying data prprocessing,visualization, and regresssion model techniques, i was able to derive meaningful insights from a structured dataset and create a model capable of making reliable price predictions.
-
+I worked on a data-driven project focused on predictive analysis using a machine learning model to estimate laptop prices based on their specifications. The goal was to analyze how features such as display size, processor type, RAM, storage type, and GPU influence the final price of a laptop. Through data preprocessing, visualization, and regression modeling techniques, the project delivered meaningful insights from a structured dataset and produced a model capable of making reliable price predictions.
 ## Tools Used
 
 Python:
